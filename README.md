@@ -46,7 +46,7 @@ You must have npm and Gulp installed globally on your machine in order to use th
 
 ## Troubleshooting and Help
 
-Start Bootstrap has a public Slack channel which is a great place to ask questions about this template and all things related to Start Bootstrap.
+Start Bootstrap has a public Slack channel which is a great place to ask questions about this template and all things related to Start Bootstrap....
 
 **[Click here to join the Slack channel!](https://startbootstrap-slack.herokuapp.com/)**
 
